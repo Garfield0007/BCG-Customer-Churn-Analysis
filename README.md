@@ -45,7 +45,7 @@ To enable PowerCo to reduce customer churn by analyzing historical data and pred
 
 ## ⚙️ Tools & Technologies Used
 
-- Python, Jupyter Notebook (Google Colab)
+- Python, Google Colab
 - `pandas`, `numpy`
 - `matplotlib`, `seaborn`
 - `scikit-learn` (RandomForestClassifier, train/test split, metrics)
